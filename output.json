@@ -1,0 +1,12 @@
+{
+  "patientInfo": {
+    "patientID": "EXUDATE_0001",
+    "age": 58,
+    "sex": "M",
+    "lesion_type": "EXUDATE"
+  },
+  "lesionAnnnot": {
+    "annotation_type": "polygon",
+    "annotaion_loc": "EXUDATE_0001.nii"
+  }
+}
